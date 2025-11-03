@@ -9,6 +9,7 @@ The goal of this project is to explore and practice different chart types beyond
 Each visualization is designed using Excel’s native charting tools and enhanced through formatting and layout customization.
 
 
+
 **Advanced Stacked Bar Chart**
 
 ![advanced_stacked_bar](https://raw.githubusercontent.com/kokoaung-da/excel-data-visualization/main/advanced_stacked_bar.png)
