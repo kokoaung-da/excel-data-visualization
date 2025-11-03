@@ -75,8 +75,12 @@ Each visualization is designed using Excel’s native charting tools and enhance
 
 ![top_1_hilight_bar](https://raw.githubusercontent.com/kokoaung-da/excel-data-visualization/main/top_1_hilight_bar.png)
 
+
 **Automated Top 2 Hilight Bar Chart**
+
 ![top_2_hilight_bar](https://raw.githubusercontent.com/kokoaung-da/excel-data-visualization/main/top_2_hilight_bar.png)
 
+
 **Tree Map**
+
 ![tree_map](https://raw.githubusercontent.com/kokoaung-da/excel-data-visualization/main/tree_map.png)
