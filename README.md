@@ -56,7 +56,7 @@ Each visualization is designed using Excel’s native charting tools and enhance
 ![pareto_chart](https://raw.githubusercontent.com/kokoaung-da/excel-data-visualization/main/pareto_chart.png)
 
 
-**Spide Chart**
+**Spider Chart**
 
 ![spider_chart](https://raw.githubusercontent.com/kokoaung-da/excel-data-visualization/main/spider_chart.png)
 
