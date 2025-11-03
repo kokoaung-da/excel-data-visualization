@@ -6,4 +6,4 @@ It includes various custom charts and advanced visualization styles, created to 
 **Project Overview**
 
 The goal of this project is to explore and practice different chart types beyond standard Excel visuals — focusing on creativity, clarity, and analytical impact.
-Each visualization is designed using Excel’s native charting tools and enhanced through formatting, Power Query, and layout customization.
+Each visualization is designed using Excel’s native charting tools and enhanced through formatting and layout customization.
