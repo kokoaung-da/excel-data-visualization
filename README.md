@@ -8,6 +8,4 @@ It includes various custom charts and advanced visualization styles, created to 
 The goal of this project is to explore and practice different chart types beyond standard Excel visuals — focusing on creativity, clarity, and analytical impact.
 Each visualization is designed using Excel’s native charting tools and enhanced through formatting and layout customization.
 
-
-
-![Alt text](https://raw.githubusercontent.com/kokoaung-da/excel-data-visualization/blob/main/advanced_stacked_bar.png)
+![Alt text](https://raw.githubusercontent.com/kokoaung-da/excel-data-visualization/main/advanced_stacked_bar.png)
